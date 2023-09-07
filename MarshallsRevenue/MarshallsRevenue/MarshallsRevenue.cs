@@ -30,7 +30,7 @@ public class MarshallsRevenue
         extPrice = EXTERIORMURALSPRICE * exteriorMurals;
         total = intPrice + extPrice;
 
-        WriteLine("The total revenue will be ${0}. ${1} for interior murals, and ${2} for exterior murals.",
+        WriteLine("The total revenue will be ${0}.  ${1} for interior murals, and ${2} for exterior murals.",
                 total, intPrice, extPrice);
 
         if (interiorMurals > exteriorMurals)
