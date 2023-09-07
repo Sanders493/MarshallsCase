@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5BB937CD-D316-48E9-865F-68B337B5BFB6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MarshallsMotto PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarshallsMotto/MarshallsMotto.cs">
+    <Files>
+      <File FileName="MarshallsMotto/MarshallsMotto.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarshallsMotto" expanded="True">
+            <Node name="MarshallsMotto" expanded="True">
+              <Node name="MarshallsMotto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

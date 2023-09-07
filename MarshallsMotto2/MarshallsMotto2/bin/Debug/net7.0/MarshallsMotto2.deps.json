@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MarshallsMotto2/1.0.0": {
+        "runtime": {
+          "MarshallsMotto2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarshallsMotto2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

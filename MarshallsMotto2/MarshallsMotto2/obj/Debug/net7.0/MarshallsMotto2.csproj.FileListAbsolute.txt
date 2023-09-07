@@ -1,0 +1,14 @@
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/bin/Debug/net7.0/MarshallsMotto2
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/bin/Debug/net7.0/MarshallsMotto2.deps.json
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/bin/Debug/net7.0/MarshallsMotto2.runtimeconfig.json
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/bin/Debug/net7.0/MarshallsMotto2.dll
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/bin/Debug/net7.0/MarshallsMotto2.pdb
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.AssemblyInfoInputs.cache
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.AssemblyInfo.cs
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.csproj.CoreCompileInputs.cache
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.dll
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/refint/MarshallsMotto2.dll
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.pdb
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/MarshallsMotto2.genruntimeconfig.cache
+/Users/sanders93/COMS 243/Assignments/MarshallsMotto2/MarshallsMotto2/obj/Debug/net7.0/ref/MarshallsMotto2.dll

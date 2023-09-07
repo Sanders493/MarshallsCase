@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/MarshallsRevenue.csproj": {}
+  },
+  "projects": {
+    "/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/MarshallsRevenue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/MarshallsRevenue.csproj",
+        "projectName": "MarshallsRevenue",
+        "projectPath": "/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/MarshallsRevenue.csproj",
+        "packagesPath": "/Users/sanders93/.nuget/packages/",
+        "outputPath": "/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanders93/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

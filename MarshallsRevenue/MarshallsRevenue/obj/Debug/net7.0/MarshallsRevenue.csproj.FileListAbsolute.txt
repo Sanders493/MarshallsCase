@@ -1,0 +1,14 @@
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/bin/Debug/net7.0/MarshallsRevenue
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/bin/Debug/net7.0/MarshallsRevenue.deps.json
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/bin/Debug/net7.0/MarshallsRevenue.runtimeconfig.json
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/bin/Debug/net7.0/MarshallsRevenue.dll
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/bin/Debug/net7.0/MarshallsRevenue.pdb
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.AssemblyInfoInputs.cache
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.AssemblyInfo.cs
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.csproj.CoreCompileInputs.cache
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.dll
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/refint/MarshallsRevenue.dll
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.pdb
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/MarshallsRevenue.genruntimeconfig.cache
+/Users/sanders93/COMS 201/Assignments/MarshallsCase/MarshallsRevenue/MarshallsRevenue/obj/Debug/net7.0/ref/MarshallsRevenue.dll
