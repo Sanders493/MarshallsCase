@@ -1,4 +1,3 @@
-﻿using System;
 using static System.Console;
 
 /** This program prompts a user for the number of interior and exterior murals 
